@@ -1,0 +1,4 @@
+-R theories FinShockVerify
+theories/Core/SingleAsset.v
+theories/Risk/WeightedStress.v
+theories/Examples/LongOnlyETF.v
